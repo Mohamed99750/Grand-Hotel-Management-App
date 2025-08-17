@@ -31,10 +31,3 @@
 * **Real-time updates** for cabins and bookings using Supabase.
 * **Visual statistics** with charts displaying sales, occupancy rates, and other important data.
 * **Fully functional dark mode** for a customized user experience.
-
-<h2>Contact</h2>
-
-If you have any questions or need more information, please feel free to contact us:
-
-* **Email:** ahmedfaresss417@gmail.com
-* **LinkedIn:** https://www.linkedin.com/in/dev-ahmedfares/
